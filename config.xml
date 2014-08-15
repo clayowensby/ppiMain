@@ -2,7 +2,7 @@
          xmlns:gap   = "http://phonegap.com/ns/1.0"
          id          = "1048770"
          version = "1.6.5"
-         versionCode = "6">
+         versionCode = "1">
  
      <!-- versionCode is optional and Android only -->
      <name>PhoneGap Example</name>
